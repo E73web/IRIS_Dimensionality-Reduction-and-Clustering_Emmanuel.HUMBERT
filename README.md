@@ -1,4 +1,4 @@
-# IRIS_Dataset_Dimensionality-Reduction-and-Clustering_by Emmanuel Humbert
+# IRIS_Dimensionality-Reduction-and-Clustering_by Emmanuel Humbert
 
 This project explores the Iris dataset using dimensionality reduction and clustering techniques. It analyzes the relationships between principal components and evaluates 
 clustering performance using a variety of metrics and visualizations. The goal is to extract meaningful patterns, reduce data complexity, and identify clusters effectively.
