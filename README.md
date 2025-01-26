@@ -3,13 +3,13 @@
 This project explores the Iris dataset using dimensionality reduction and clustering techniques. It analyzes the relationships between principal components and evaluates 
 clustering performance using a variety of metrics and visualizations. The goal is to extract meaningful patterns, reduce data complexity, and identify clusters effectively.
 
-Key Objectives
+KEY OBJECTIVES
 
 Dimensionality Reduction: 
 
 Perform Principal Component Analysis (PCA) to reduce the dataset's dimensionality.
-Analyze variance, eigenvalues, cos² (quality of representation), and contributions of variables to principal components.
-Visualize the results building multiple scatter plots (3D and 2D), biplots, correlation circles
+Analyze variance, eigenvalues, cos², and contributions of variables to principal components.
+Visualize results building multiple scatter plots (3D and 2D), biplots, correlation circles
 
 Clustering Analysis:
 
